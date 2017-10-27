@@ -1,6 +1,6 @@
 # my-aliases
 
-Copy the .bash_aliases to your home folde and be shure that the file is loaded by you .bashrc or whatevere profile file you are using the code.
+Copy the .bash_aliases to your home folde and be shure that the file is loaded by you .bashrc or whatevere profile file you are using (.bashrc, .profile etc.)
 
 
 Snippet from my .bashrc file
