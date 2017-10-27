@@ -1,8 +1,8 @@
-Work smart with aliases
-
 ## Takeaway
 
 You get an `ea` command, short for __edit aliases__ that opens an editor to add edit aliases when the editor exits the aliases file is sources so the changes are immediately available in the the command prompt.
+
+## Prerequisite
 
 Copy the .bash_aliases to your home folde and be shure that the file is loaded by you .bashrc or whatevere profile file you are using (.bashrc, .profile etc.)
 
